@@ -5,8 +5,9 @@ Opa! Eu sou Lucas Emanuel.
 - 🔭 Buscando oportunidades de mostrar minhas habilidades
 - 📫 Como me encontrar? meu email: Lucasemanuel500@outlook.com
 <div>
+  <a href="https://github.com/LuelYuuki">
   <img height='180cm' src="https://github-readme-stats.vercel.app/api?username=LuelYuuki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height='180cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuelYuuki&layout=compact&langs_count=16&theme=dracula"/>
+  <img height='150cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuelYuuki&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -20,7 +21,10 @@ Opa! Eu sou Lucas Emanuel.
  ##
  
 <div>
-   <a href="https://instagram.com/lucaixyuuki/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/lucaixyuuki/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasemanuelll500@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-emanuel-7ab30122a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
